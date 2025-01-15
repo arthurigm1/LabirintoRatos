@@ -26,7 +26,7 @@ O objetivo deste projeto é criar uma ferramenta que:
 1. **Clonar o repositório**:
    Se você ainda não tem o repositório, clone-o com o seguinte comando:
    ```bash
-   git clone https://github.com/seu-usuario/labirinto-com-threads.git
+   git clone https://github.com/arthurigm1/labirinto-com-threads.git
 
 
 ![image](https://github.com/arthurigm1/LabirintoRatos/assets/95000379/4293555f-7f1d-4b56-9761-6da4dc195f55)
